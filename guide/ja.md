@@ -475,6 +475,11 @@ const config = {
 npm run build:dev
 ```
 
+```bash
+コンパイル時にエラーがでた場合は、下記を試してみましょう。
+npm install vue-template-compiler --save-dev
+```
+
 ローカルサーバーを任意の方法で立ち上げてください。  
 macOSであれば以下のコマンドが利用できます。  
 
